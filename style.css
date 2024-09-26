@@ -1,0 +1,6 @@
+/* Target all text inside the chatbot and force red color */
+.vf-chatbot-container * {
+    font-family: 'Roboto', sans-serif; /* Or your chosen font */
+    font-size: 16px; /* Adjust font size */
+    color: red !important; /* Force text color to red */
+}
